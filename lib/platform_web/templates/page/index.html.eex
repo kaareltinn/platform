@@ -1,0 +1,4 @@
+<div class="container">
+  <%= link("Create Account", to: "/players/new", class: "btn btn-success") %>
+  <%= link("Accounts", to: "/players", class: "btn btn-info") %>
+</div>
